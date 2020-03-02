@@ -1,8 +1,8 @@
 
 // Based on https://processing.org/examples/follow3.html
 
-let x = new Array(200).fill(0);
-let y = new Array(200).fill(0);
+let x = new Array(250).fill(0);
+let y = new Array(250).fill(0);
 let segLength = 18;
 
 function preload() {
